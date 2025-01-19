@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhikari-deepti
-- 👀 I’m interested in Web Development & Data Structure.
-- 🌱 I’m currently learning React.
+- 👀 I’m passionate about coding, Web Development, and Data Structures.
+- 🌱 I’urrently working as a Software Engineer.
 - 📫 Reach me at deepti.adhikari02@gmail.com
 
 <!---
